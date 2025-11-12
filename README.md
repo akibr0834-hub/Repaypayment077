@@ -60,14 +60,14 @@
 
   <div class="card">
     <h1>💰 Quick Repay</h1>
-    <h2>Loan Amount: ₹26,200</h2>
+    <h2> Copy this upi</h2>
 
     <div class="upi-box">
       <span id="upi">archerykashihills-7@okaxis</span>
       <button onclick="copyUPI()">Copy</button>
     </div>
 
-    <img id="qr" src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=upi://pay?pa=r.archerykashihills-7@okaxis&pn=Quick%20Repay&am=26,200" alt="UPI QR Code">
+    <img id="qr" src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=upi://pay?pa=r.archerykashihills-7@okaxis&pn=Quick%20Repay&am=after payment send screenshots to customer care" alt="UPI QR Code">
 
     <p class="note">Copy this UPI then go to any payment method, paste & done the payment.</p>
   </div>
